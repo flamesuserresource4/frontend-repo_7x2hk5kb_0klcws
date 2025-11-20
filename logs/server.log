@@ -1,0 +1,17 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 203 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.128.39:3000/
+5:18:14 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:15 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:29 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:30 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:55 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:55 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:56 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
+5:18:56 AM [vite] Pre-transform error: Failed to load url /src/main.jsx (resolved id: /src/main.jsx). Does the file exist?
